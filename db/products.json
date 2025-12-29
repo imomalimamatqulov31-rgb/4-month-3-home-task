@@ -1,0 +1,51 @@
+[
+    {
+        "id": 1,
+        "product_name": "realmic11",
+        "category_id": "1",
+        "price": "3000",
+        "createdAt": "12/29/2025, 1:47:50 PM"
+    },
+    {
+        "id": 2,
+        "product_name": "intelcorei7",
+        "category_id": "2",
+        "price": "70000000",
+        "createdAt": "12/29/2025, 1:48:40 PM"
+    },
+    {
+        "id": 3,
+        "product_name": "samsungs22ultra",
+        "category_id": "1",
+        "price": "12000",
+        "createdAt": "12/29/2025, 1:49:19 PM"
+    },
+    {
+        "id": 4,
+        "product_name": "ASUS",
+        "category_id": "2",
+        "price": "40000",
+        "createdAt": "12/29/2025, 1:49:44 PM"
+    },
+    {
+        "id": 5,
+        "product_name": "realmic11",
+        "category_id": "1",
+        "price": "129909",
+        "createdAt": "12/29/2025, 5:07:10 PM"
+    },
+    {
+        "id": 6,
+        "product_name": "intelcorei5",
+        "category_id": "2",
+        "price": "500$",
+        "createdAt": "12/29/2025, 5:11:06 PM"
+    },
+    {
+        "id": 7,
+        "product_name": "intelcore10",
+        "category_id": "2",
+        "price": "500$",
+        "createdAt": "12/29/2025, 5:12:36 PM"
+    }
+]
