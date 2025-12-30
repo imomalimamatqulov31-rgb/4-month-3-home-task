@@ -69,6 +69,38 @@
         "category_id": "1",
         "price": "1500$",
         "count": 2,
-        "createdAt": "12/30/2025, 4:04:18 PM"
+        "createdAt": "12/30/2025, 4:16:39 PM"
+    },
+    {
+        "id": 10,
+        "product_name": "Iphone15",
+        "category_id": "1",
+        "price": "1000",
+        "count": 1,
+        "createdAt": "12/30/2025, 4:19:10 PM"
+    },
+    {
+        "id": 11,
+        "product_name": "Iphone17",
+        "category_id": "1",
+        "price": "1500$",
+        "count": 3,
+        "createdAt": "12/30/2025, 4:25:21 PM"
+    },
+    {
+        "id": 12,
+        "product_name": "Iphone17",
+        "category_id": "1",
+        "price": "1500$",
+        "count": 4,
+        "createdAt": "12/30/2025, 4:25:36 PM"
+    },
+    {
+        "id": 13,
+        "product_name": "Iphone18",
+        "category_id": "1",
+        "price": "2000$",
+        "count": 1,
+        "createdAt": "12/30/2025, 4:26:18 PM"
     }
 ]

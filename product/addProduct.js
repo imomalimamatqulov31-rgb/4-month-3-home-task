@@ -1,4 +1,4 @@
-const { count } = require("node:console");
+
 const readData = require("../readFile");
 const writeData = require("../writeFile");
 
@@ -21,18 +21,16 @@ async function addProduct() {
         let products = await readData("products.json");
 
 
-           let CountProduct = products.find(
-            p => p.product_name === newProduct && p.category_id === categoryId
-        );
-
-        let productCount = CountProduct ? CountProduct.count + 1 : 1;
+                let CountProduct = products.filter(
+            p => p.product_name === newProduct
+        ).length;
 
         let newProductData = {
             id: products.length ? products.at(-1).id + 1 : 1,
             product_name: newProduct,
             category_id: categoryId,
             price: productPrice,
-            count: productCount,
+            count: CountProduct + 1,
             createdAt: new Date().toLocaleString()
         }
 
