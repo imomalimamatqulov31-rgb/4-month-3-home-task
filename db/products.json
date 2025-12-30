@@ -4,6 +4,7 @@
         "product_name": "realmic11",
         "category_id": "1",
         "price": "3000",
+        "count": 1,
         "createdAt": "12/29/2025, 1:47:50 PM"
     },
     {
@@ -11,6 +12,7 @@
         "product_name": "intelcorei7",
         "category_id": "2",
         "price": "70000000",
+        "count": 1,
         "createdAt": "12/29/2025, 1:48:40 PM"
     },
     {
@@ -18,6 +20,7 @@
         "product_name": "samsungs22ultra",
         "category_id": "1",
         "price": "12000",
+        "count": 1,
         "createdAt": "12/29/2025, 1:49:19 PM"
     },
     {
@@ -25,6 +28,7 @@
         "product_name": "ASUS",
         "category_id": "2",
         "price": "40000",
+        "count": 1,
         "createdAt": "12/29/2025, 1:49:44 PM"
     },
     {
@@ -32,6 +36,7 @@
         "product_name": "realmic11",
         "category_id": "1",
         "price": "129909",
+        "count": 1,
         "createdAt": "12/29/2025, 5:07:10 PM"
     },
     {
@@ -39,6 +44,7 @@
         "product_name": "intelcorei5",
         "category_id": "2",
         "price": "500$",
+        "count": 1,
         "createdAt": "12/29/2025, 5:11:06 PM"
     },
     {
@@ -46,6 +52,23 @@
         "product_name": "intelcore10",
         "category_id": "2",
         "price": "500$",
+        "count": 1,
         "createdAt": "12/29/2025, 5:12:36 PM"
+    },
+    {
+        "id": 8,
+        "product_name": "Iphone17",
+        "category_id": "1",
+        "price": "1500$",
+        "count": 1,
+        "createdAt": "12/30/2025, 4:03:55 PM"
+    },
+    {
+        "id": 9,
+        "product_name": "Iphone17",
+        "category_id": "1",
+        "price": "1500$",
+        "count": 2,
+        "createdAt": "12/30/2025, 4:04:18 PM"
     }
 ]
